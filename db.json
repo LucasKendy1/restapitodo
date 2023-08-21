@@ -1,3 +1,10 @@
 {
-    "todos": []
+    "todos": [
+        {
+            "text": "Tomar café",
+            "category": "Pessoal",
+            "isCompleted": false,
+            "id": 1
+        }
+    ]
 }
